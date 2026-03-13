@@ -13,7 +13,8 @@
 <div align="left">
   <details>
   <summary><code><b>drwxr-xr-x ./repo-dotfiles</b></code></summary>
-  
+  <br>
+    
   <table>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/f2ab18cd-b7f8-419e-9efc-ea3fe2c26392" width="500" /></td>
@@ -50,6 +51,7 @@
 
   <details>
   <summary><code><b>drwxr-xr-x ./repo-chinese</b></code></summary>
+  <br>
   
   <table>
     <tr>
