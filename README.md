@@ -44,7 +44,7 @@
   
   <br>
   
-  **[`> ./go_to_source_code`](https://github.com/Michael-Steenkamp/Dotfiles)**
+  **[`> ./go_to_source_code`](https://github.com/Michael-Steenkamp/repo-dotfiles)**
   
   <hr>
   </details>
@@ -72,7 +72,7 @@
   
   <br>
   
-  **[`> ./go_to_source_code`](https://github.com/Michael-Steenkamp/Chinese)**
+  **[`> ./go_to_source_code`](https://github.com/Michael-Steenkamp/repo-chinese)**
   
   <hr>
   </details>
@@ -97,7 +97,7 @@
   
   <br>
   
-  **[`> ./go_to_source_code`](https://github.com/Michael-Steenkamp/SpaceShooter)**
+  **[`> ./go_to_source_code`](https://github.com/Michael-Steenkamp/repo-space-shooter)**
   
   <hr>
   </details>
