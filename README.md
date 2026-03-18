@@ -81,8 +81,28 @@
   <summary><code><b>drwxr-xr-x ./repo-space-shooter</b></code></summary>
   <br>
   
-  <table>
+  <table align="center">
     <tr>
+      <td align="center">
+        <img width="300" alt="Gameplay 1" src="https://github.com/user-attachments/assets/e9b2f25d-45c2-41b8-970c-c255df2b5a69" />
+      </td>
+      <td align="center">
+        <img width="300" alt="Gameplay 2" src="https://github.com/user-attachments/assets/4a80275c-7bd6-48e0-9593-e18f05102936" />
+      </td>
+      <td align="center">
+        <img width="300" alt="Gameplay 3" src="https://github.com/user-attachments/assets/360f8bfa-2d85-4fb2-a788-09343d61a6a5" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="300" alt="Gameplay 4" src="https://github.com/user-attachments/assets/e7b73cd8-752f-4140-a9fe-532213a64fd8" />
+      </td>
+      <td align="center">
+        <img width="300" alt="Gameplay 5" src="https://github.com/user-attachments/assets/39ef6976-9fc4-4ad2-9aa3-ea97ca932314" />
+      </td>
+      <td align="center">
+        <img width="300" alt="Gameplay 6" src="https://github.com/user-attachments/assets/077542f1-3691-4339-9807-904ce44a74f8" />
+      </td>
     </tr>
   </table>
     
