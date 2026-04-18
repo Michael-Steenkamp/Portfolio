@@ -121,5 +121,36 @@
   
   <hr>
   </details>
+
+  <details>
+  <summary><code><b>drwxr-xr-x ./repo-readme-generator</b></code></summary>
+  <br>
+  
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img width="500" alt="AutoReadme Logs" src="https://placehold.co/500x300/1e1e1e/9CAFB7?text=Add+Action+Logs+Screenshot+Here" />
+      </td>
+      <td align="center">
+        <img width="500" alt="AutoReadme PR" src="https://placehold.co/500x300/1e1e1e/9CAFB7?text=Add+Pull+Request+Screenshot+Here" />
+      </td>
+    </tr>
+  </table>
+    
+  <br>
+  
+  > AutoReadme AI is a plug-and-play GitHub Action and server-less Git automation pipeline that dynamically synchronizes repository documentation with code changes. Features a zero-dependency Python core, tiered LLM routing (Gemini/OpenAI), and stateless context memory.
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  </div>
+  
+  <br>
+  
+  **[`> ./go_to_source_code`](https://github.com/Michael-Steenkamp/repo-readme-generator)**
+  
+  <hr>
+  </details>
   
 </div>
