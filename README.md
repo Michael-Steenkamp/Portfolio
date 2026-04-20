@@ -129,14 +129,14 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img width="500" alt="AutoReadme Logs" src="https://placehold.co/500x300/1e1e1e/9CAFB7?text=Add+Action+Logs+Screenshot+Here" />
+        <img width="500" alt="AutoReadme Logs" src="https://github.com/user-attachments/assets/931a5f52-6a85-4467-ae2a-f7d8107d35c2" />
       </td>
       <td align="center">
-        <img width="500" alt="AutoReadme PR" src="https://placehold.co/500x300/1e1e1e/9CAFB7?text=Add+Pull+Request+Screenshot+Here" />
+        <img width="500" alt="AutoReadme PR" src="https://github.com/user-attachments/assets/b0562e1a-df30-4b50-b790-7645a479caef" />
       </td>
     </tr>
   </table>
-    
+
   <br>
   
   > AutoReadme AI is a plug-and-play GitHub Action and server-less Git automation pipeline that dynamically synchronizes repository documentation with code changes. Features a zero-dependency Python core, tiered LLM routing (Gemini/OpenAI), and stateless context memory.
