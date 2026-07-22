@@ -11,6 +11,9 @@
 ---
 
 <div align="left">
+  
+<!------------------------------------------------------------------------------------------------------------------------>
+  
   <details>
   <summary><code><b>drwxr-xr-x ./repo-dotfiles</b></code></summary>
   <br>
@@ -49,6 +52,8 @@
   <hr>
   </details>
 
+<!------------------------------------------------------------------------------------------------------------------------>
+
   <details>
   <summary><code><b>drwxr-xr-x ./repo-chinese</b></code></summary>
   <br>
@@ -76,6 +81,33 @@
   
   <hr>
   </details>
+
+  <!------------------------------------------------------------------------------------------------------------------------>
+  <details>
+    <summary><code><b>drwxr-xr-x ./Simple-Store</b></code></summary>
+  <br>
+
+  <div align="center">
+     <img src="https://github.com/user-attachments/assets/e864cbd6-9de3-4d7f-b174-d4806f41bc74" alt="Simple Store Logo" width="120" height="120">
+  </div>
+      
+  <br>
+  
+  > A sleek, native Point of Sale and inventory management system for iOS.
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/SwiftUI-524520?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+    <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple" />
+  </div>
+  
+  <br>
+  
+  **[`> ./go_to_source_code`](https://github.com/Michael-Steenkamp/Simple-Store)**
+  
+  <hr>
+  </details>
+
+<!------------------------------------------------------------------------------------------------------------------------>
 
   <details>
   <summary><code><b>drwxr-xr-x ./repo-space-shooter</b></code></summary>
@@ -122,6 +154,8 @@
   <hr>
   </details>
 
+<!------------------------------------------------------------------------------------------------------------------------>
+
   <details>
   <summary><code><b>drwxr-xr-x ./repo-readme-generator</b></code></summary>
   <br>
@@ -152,5 +186,7 @@
   
   <hr>
   </details>
+
+  <!------------------------------------------------------------------------------------------------------------------------>
   
 </div>
